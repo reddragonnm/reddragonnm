@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/13921156" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13921156" height="30" width="30" /></a>
 <a href="https://kaggle.com/neeleshojmishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="neeleshojmishra" height="30" width="30" /></a>
 </p>
-![My Image](https://github.com/reddragonnm/reddragonnm/blob/master/myimage.png)
+<img src="https://github.com/reddragonnm/reddragonnm/blob/master/myimage.png">
