@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddragonnm&label=Profile%20views&color=0aff74&style=flat-square" alt="reddragonnm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddragonnm" alt="reddragonnm" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddragonnm" alt="reddragonnm" /></a> </p>
 
 - 🔭 I’m currently working on [neatpy](https://github.com/reddragonnm/neatpy)
 
